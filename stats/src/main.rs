@@ -5,17 +5,17 @@ use rand::Rng;
 
 fn main() {
   //  let args: Vec<String> = std::env::args().collect();
-    let mut rnd_nbrs = generate_rand(11, 12);
+    let mut rnd_nbrs = generate_rand(100, 1000);
 
    let  mean = calc_mean(&rnd_nbrs);
-   dbg!(&rnd_nbrs);
+   //dbg!(&rnd_nbrs);
    println!("mean -> {}", mean);
    let stddev = calc_stddev(&rnd_nbrs,&mean);
    println!("std dev -> {}", stddev);
    display_nbrs(&rnd_nbrs,5);
-   rnd_nbrs.sort();
-   display_nbrs(&rnd_nbrs,5);
-   print!("\n{}",calc_stddev(&rnd_nbrs,&mean).round( ));
+//    rnd_nbrs.sort();
+//    display_nbrs(&rnd_nbrs,5);
+//    print!("\n{}",calc_stddev(&rnd_nbrs,&mean).round( ));
 }
 
 fn calc_mean (nbrs: &Vec<i64>) -> f64 {
@@ -33,15 +33,14 @@ fn calc_mean (nbrs: &Vec<i64>) -> f64 {
 Step 1: Find the mean.
 Step 2: For each data point, find the square of its distance to the mean.
 Step 3: Sum the values from Step 2.
-Step 4: Divide by the number of data  .
+Step 4: Divide by the number of data  . 
 Step 5: Take the square root.
 */
 fn calc_stddev (nbrs: &Vec<i64>, mean: &f64 ) -> f64 {
     let mut sum: i64 = 0;
     let mn = *mean as i64;
     for n in nbrs.iter() {
-        let  dist =  num::abs_sub(mn,*n);
-        sum += (dist*dist) as i64;
+        sum += num::abs(mn - *n).pow(2);
     } 
     return ((sum/nbrs.len() as i64) as f64).sqrt();
 }
