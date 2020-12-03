@@ -1,0 +1,15 @@
+C:\Users\pf\projects\rust\statistics\stats\target\debug\deps\num_bigint-e2c740353aaba082.rmeta: C:\Users\pf\.cargo\registry\src\github.com-1ecc6299db9ec823\num-bigint-0.3.1\src\lib.rs C:\Users\pf\.cargo\registry\src\github.com-1ecc6299db9ec823\num-bigint-0.3.1\src\macros.rs C:\Users\pf\.cargo\registry\src\github.com-1ecc6299db9ec823\num-bigint-0.3.1\src\bigint.rs C:\Users\pf\.cargo\registry\src\github.com-1ecc6299db9ec823\num-bigint-0.3.1\src\biguint.rs C:\Users\pf\.cargo\registry\src\github.com-1ecc6299db9ec823\num-bigint-0.3.1\src\algorithms.rs C:\Users\pf\.cargo\registry\src\github.com-1ecc6299db9ec823\num-bigint-0.3.1\src\monty.rs C:\Users\pf\projects\rust\statistics\stats\target\debug\build\num-bigint-975b03e3a05bac5d\out/radix_bases.rs
+
+C:\Users\pf\projects\rust\statistics\stats\target\debug\deps\libnum_bigint-e2c740353aaba082.rlib: C:\Users\pf\.cargo\registry\src\github.com-1ecc6299db9ec823\num-bigint-0.3.1\src\lib.rs C:\Users\pf\.cargo\registry\src\github.com-1ecc6299db9ec823\num-bigint-0.3.1\src\macros.rs C:\Users\pf\.cargo\registry\src\github.com-1ecc6299db9ec823\num-bigint-0.3.1\src\bigint.rs C:\Users\pf\.cargo\registry\src\github.com-1ecc6299db9ec823\num-bigint-0.3.1\src\biguint.rs C:\Users\pf\.cargo\registry\src\github.com-1ecc6299db9ec823\num-bigint-0.3.1\src\algorithms.rs C:\Users\pf\.cargo\registry\src\github.com-1ecc6299db9ec823\num-bigint-0.3.1\src\monty.rs C:\Users\pf\projects\rust\statistics\stats\target\debug\build\num-bigint-975b03e3a05bac5d\out/radix_bases.rs
+
+C:\Users\pf\projects\rust\statistics\stats\target\debug\deps\num_bigint-e2c740353aaba082.d: C:\Users\pf\.cargo\registry\src\github.com-1ecc6299db9ec823\num-bigint-0.3.1\src\lib.rs C:\Users\pf\.cargo\registry\src\github.com-1ecc6299db9ec823\num-bigint-0.3.1\src\macros.rs C:\Users\pf\.cargo\registry\src\github.com-1ecc6299db9ec823\num-bigint-0.3.1\src\bigint.rs C:\Users\pf\.cargo\registry\src\github.com-1ecc6299db9ec823\num-bigint-0.3.1\src\biguint.rs C:\Users\pf\.cargo\registry\src\github.com-1ecc6299db9ec823\num-bigint-0.3.1\src\algorithms.rs C:\Users\pf\.cargo\registry\src\github.com-1ecc6299db9ec823\num-bigint-0.3.1\src\monty.rs C:\Users\pf\projects\rust\statistics\stats\target\debug\build\num-bigint-975b03e3a05bac5d\out/radix_bases.rs
+
+C:\Users\pf\.cargo\registry\src\github.com-1ecc6299db9ec823\num-bigint-0.3.1\src\lib.rs:
+C:\Users\pf\.cargo\registry\src\github.com-1ecc6299db9ec823\num-bigint-0.3.1\src\macros.rs:
+C:\Users\pf\.cargo\registry\src\github.com-1ecc6299db9ec823\num-bigint-0.3.1\src\bigint.rs:
+C:\Users\pf\.cargo\registry\src\github.com-1ecc6299db9ec823\num-bigint-0.3.1\src\biguint.rs:
+C:\Users\pf\.cargo\registry\src\github.com-1ecc6299db9ec823\num-bigint-0.3.1\src\algorithms.rs:
+C:\Users\pf\.cargo\registry\src\github.com-1ecc6299db9ec823\num-bigint-0.3.1\src\monty.rs:
+C:\Users\pf\projects\rust\statistics\stats\target\debug\build\num-bigint-975b03e3a05bac5d\out/radix_bases.rs:
+
+# env-dep:OUT_DIR=C:\\Users\\pf\\projects\\rust\\statistics\\stats\\target\\debug\\build\\num-bigint-975b03e3a05bac5d\\out
